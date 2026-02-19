@@ -70,7 +70,7 @@ python scripts/run.sh
 
 ## 📊 Results & Leaderboard
 
-Please refer to the [paper](https://openreview.net/pdf?id=YeagC09j2K) for the detailed performance of different MLLMs.
+Please refer to the [paper](https://openreview.net/forum?id=YeagC09j2K) for the detailed performance of different MLLMs.
 
 Our leaderboard repored in the paper will be released soon. At the same time, we are integrating the FREAK benchmark into VLMEvalKit. Please stay tuned :)
 
