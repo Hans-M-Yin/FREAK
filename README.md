@@ -58,7 +58,7 @@ export OPENAI_API_KEY=<your api key>
 export OPENAI_BASE_URL=<your api key>
 ```
 
-For local MLLMs,  we recommand to install [vLLM]([vllm-project/vllm: A high-throughput and memory-efficient inference and serving engine for LLMs](https://github.com/vllm-project/vllm)) for model deployment. Check *scripts/deploy.sh* for details.
+For local MLLMs,  we recommand to install [vLLM](https://github.com/vllm-project/vllm) for model deployment. Check *scripts/deploy.sh* for details.
 
 
 
